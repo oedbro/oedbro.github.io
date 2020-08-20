@@ -1,5 +1,5 @@
 ---
 title: index
-permalink: /
+permalink: 
 layout: home
 ---

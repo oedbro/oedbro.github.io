@@ -29,13 +29,15 @@ description: >- # this means to ignore newlines until "baseurl:"
 # theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-theme-hamilton 
+  - jekyll-remote-theme
 
-theme: jekyll-theme-hamilton
+remote_theme: https://github.com/ngzhio/jekyll-theme-hamilton
+
+# theme: jekyll-theme-hamilton
 author: Oskar Edbro
 disqus:
 google_analytics: 
-skin: Sunrise
+skin: sunrise
 # paginate: 15
 date_format: "%d %B %Y"
 social:
