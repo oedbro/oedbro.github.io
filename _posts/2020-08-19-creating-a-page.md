@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a Webpage"
-date:   2020-08-20 17:35:41 +0200
+date:   2020-08-19
 categories: projects
 tags: Jekyll Projects 
 author: "Oskar Edbro"
