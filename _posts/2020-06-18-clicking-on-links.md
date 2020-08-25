@@ -4,6 +4,7 @@ title: Clicking on Links, What are the Risks?
 date:   2020-06-18
 categories: ["Risk Management"]
 tags: ["Risk", "Linkedin Article", "Security"]
+author: ["Oskar Edbro"]
 ---
 One of the most common tips you hear in regard to security is to not click links, but how malicious can a link be in this day and age? In this article I'll discuss the risks I see and what impact they may have, to initiate a discussion about these risks.
 
