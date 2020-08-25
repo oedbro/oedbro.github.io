@@ -4,6 +4,7 @@ title: a Journey from Technical Debts to Risks
 date:   2020-08-20
 categories: ["Architecture"]
 tags: ["Risk", "Linkedin Article", "Security", "Architecture"]
+author: ["Oskar Edbro"]
 ---
 Technical debt has become a common term when discussing the quality and maintainability of code. There are a lot of definitions of the debt, but they all have some things in common, that debt are the things in the solution that should be fixed but haven't been fixed yet. This could include everything from lack of documentation or test coverage to code complexity. The debt might not have been there from the beginning, but rather been introduce while the solution grows. Another common denominator is that the debt will increase the cost of continued development within the solution. This can be seen in several different ways, for example adding a feature to a complex codebase would require more time than adding the same feature to the simple.
 
