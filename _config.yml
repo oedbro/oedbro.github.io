@@ -39,7 +39,8 @@ disqus:
 google_analytics: 
 skin: sunrise
 avatar: edbro.jpg
-paginate: 5
+# paginate: 5
+
 date_format: "%d %B %Y"
 social:
   name: Oskar Edbro
