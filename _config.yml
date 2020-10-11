@@ -21,9 +21,7 @@
 title: Homepage of a Sec Guy
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  My little corner of the internet, where I blog about stuff and things. Thoughts 
-  and feelings are my own, and shared of my own free will. Enjoy all the things you
-  find here, hope they can bring some clarity, or at least some joy.
+  My little corner of the internet
 
 # Build settings
 # theme: minima
