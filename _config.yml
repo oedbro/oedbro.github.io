@@ -37,7 +37,7 @@ disqus:
 google_analytics: 
 skin: sunrise
 avatar: edbro.jpg
-# paginate: 5
+paginate: 4
 
 date_format: "%d %B %Y"
 social:
