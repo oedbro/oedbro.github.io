@@ -27,11 +27,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 # theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#  - jekyll-remote-theme
 
-remote_theme: https://github.com/ngzhio/jekyll-theme-hamilton
+# remote_theme: https://github.com/ngzhio/jekyll-theme-hamilton
 
-# theme: jekyll-theme-hamilton
+theme: jekyll-theme-hamilton
 author: Oskar Edbro
 disqus:
 google_analytics: 
