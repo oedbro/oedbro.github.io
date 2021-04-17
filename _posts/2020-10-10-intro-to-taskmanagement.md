@@ -3,7 +3,7 @@ layout: post
 title: Begining my Journey into Tasklists
 date:   2020-10-17
 categories: ["Productivity"]
-tags: ["Task List", "Productivity"]
+tags: ["Task List", "Productivity", "Tools"]
 author: ["Oskar Edbro"]
 ---
 
