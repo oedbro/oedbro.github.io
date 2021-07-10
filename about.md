@@ -6,7 +6,7 @@ permalink: /about/
 
 ## Whoami
 * Security Geek
-* Consultant at <a href="https://www.cybercom.com">Cybercom</a>
+* Consultant at <a href="https://www.knowit.eu/services/insight/cybersecurity-law/">Knowit</a>
 * Tech Enthusiast
 * Thinker and Tinkerer
 * Moonlight blogger
