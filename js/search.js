@@ -1,6 +1,5 @@
-(function() {
-  function displaySearchResults(results, store) {
-    var searchResults = document.getElementById('search-results');
+function displaySearchResults(results, store) {
+  var searchResults = document.getElementById('search-results');
 
     if (results.length) { // Are there any results?
       var appendString = '';
@@ -30,10 +29,17 @@
     }
   }
 
-  var searchTerm = getQueryVariable('query');
+  function getVariable() {
+    var variable = document.getElementById('search-box').value;
 
-  if (searchTerm) {
-    document.getElementById('search-box').setAttribute("value", searchTerm);
+    return variable
+  }
+
+  function search() {
+    var searchTerm = getVariable();
+
+    if (searchTerm) {
+      document.getElementById('search-box').setAttribute("value", searchTerm);
 
     // Initalize lunr with the fields it will be searching on. 
     // Title is boosted by 10 and category by 5
@@ -44,7 +50,7 @@
       this.field('category', { boost: 5 });
       this.field('content');
 
-    
+
     for (var key in window.store) { // Add the data to lunr
       this.add({
         'id': key,
@@ -56,10 +62,13 @@
     }
     
 
-    });
+  });
     
       var results = idx.search(searchTerm); // Get lunr to perform a search
       displaySearchResults(results, window.store); 
-    
+
+    }
   }
-})();
+
+
+  document.getElementById('search-form').addEventListener('submit', function(event) { search(); event.preventDefault(); });
