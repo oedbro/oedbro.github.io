@@ -6,7 +6,7 @@ categories: ["Awareness"]
 tags: ["Security", "SSDLC", "Awareness"]
 author: ["Oskar Edbro"]
 ---
-Previously I've written a post about [security for devolvement teams]({% post_url 2021-02-13-technology-independent-security-testing %}), and now it's time for the continuation. Just as for developer there are great benefits in performing security tests for administrators. However, the methodology when testing the infrastructure is not the same as when testing an application. 
+Previously I've written a post about [security for devolvement teams]({% post_url 2021/2021-02-13-technology-independent-security-testing %}), and now it's time for the continuation. Just as for developer there are great benefits in performing security tests for administrators. However, the methodology when testing the infrastructure is not the same as when testing an application. 
 
 In this post I'm going to introduce categories of testing for administrators in much the same way as I did for developers, allowing any team to begin thinking about security and performing basic security testing. The categories proposed can also be adapted to be used as requirements, more so than the ones used for developers. This is since they are easier to apply regardless of what solution is tested. 
 
@@ -33,4 +33,4 @@ To keep a system up to date might be more work than expected since you have to k
 ## Summary
 When it comes to security for administrators it's important to have a defence in depth strategy. It is not enough to protect against any single one of these categories of vulnerabilities. To protect efficiently all layers of security needs to be applied. 
 
-This methodology does not protect against exploits in the application, since each application might be vulnerable. It assumes that the suppliers have their own way of ensuring that their product is secure. If the application is vulnerable np configuration will protect, and testing for these categories of vulnerabilities will not help. Instead it is recommended to read the post [security for devolvement teams]({% post_url 2021-02-13-technology-independent-security-testing %}).
+This methodology does not protect against exploits in the application, since each application might be vulnerable. It assumes that the suppliers have their own way of ensuring that their product is secure. If the application is vulnerable np configuration will protect, and testing for these categories of vulnerabilities will not help. Instead it is recommended to read the post [security for devolvement teams]({% post_url 2021/2021-02-13-technology-independent-security-testing %}).

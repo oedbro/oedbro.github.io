@@ -11,7 +11,7 @@ I've been looking around on how to get some statistics from my blog, especially 
 
 Migrating from GitHub pages to Cloudflare pages was as easy as configuring what GitHub repo to use in Cloudflare, picking Jekyll and then it just worked. Right after the page was built you see some basic statistics, such as the amount of request grouped by country. Below the first hours of traffic is shown in a map, as presented by Cloudflare.
 
-![]({{site.url}}/assets/Cloudflare-map.png)
+![]({{site.url}}/assets/2021/migrating-to-cloudflare/Cloudflare-map.png)
 
 In addition to providing basic statistics, using Cloudflare gives a lot of additional benefits. This includes the use of their Content Delivery Network, protection from Denial of Service, and easy HTTPS. I have not dug deep into which is best in these regards, but i find it difficult to believe that I have made a significant downgrade. 
 

@@ -23,7 +23,7 @@ No investigations will be performed in against the in private browsing for the b
 ## Microsoft Edge
 When opening edge you are greeted by the bing feed, and that shows when looking at the traffic as well.
 
-![]({{site.url}}/assets/Edge-Startpage.png)
+![]({{site.url}}/assets/2021/privacy-in-browsers/Edge-Startpage.png)
 
 After just starting the browser there are traffic to 9 different domains:
 - **assets.msn.com** contains data in a JSON format that tells the browser what to show on the homepage. This includes news, where images are stored, weather and more.
@@ -164,7 +164,7 @@ Firefox is a somewhat chatty browser, that sends traffic in-between usage. This 
 
 Brave has the unique selling point to be a privacy focused browser. It has an inbuilt adblocker, and on the start page it boasts with how much time has been saved by the browser since it was installed.
 
-![]({{site.url}}/assets/Brave-Startpage.png)
+![]({{site.url}}/assets/2021/privacy-in-browsers/Brave-Startpage.png)
 During the install process it asks for what search engine to use, but for this test the standard (google) was used.
 When opening the browser there are a couple of requests, as usual. However there are only 4 that resolves, and the thre randomised ones from chromium.
 - **laptop-updates.brave.com** seems to fetch updates the list of ads that adhere to Braves standards. This could however not be validated.
