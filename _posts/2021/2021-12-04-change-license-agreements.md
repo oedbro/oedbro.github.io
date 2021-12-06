@@ -3,7 +3,7 @@ layout: post
 title: "Something Needs to Change about All These Agreements"
 date:   2021-12-04
 categories: ["Privacy"]
-tags: ["Comments", "", "Privacy"]
+tags: ["Comments", "Privacy"]
 author: ["Oskar Edbro"]
 ---
 
