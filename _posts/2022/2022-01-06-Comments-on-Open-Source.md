@@ -3,7 +3,7 @@ layout: post
 title: "Comments on the use of Open Source"
 date:   2022-01-06
 categories: ["awareness"]
-tags: ["opensource", "risk", "comments"]
+tags: ["Open-Source", "Risk", "Comments"]
 author: ["Oskar Edbro"]
 ---
 
