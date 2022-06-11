@@ -21,7 +21,7 @@
 title: Homepage of a Sec Guy
 # email: 
 description: >- # this means to ignore newlines until "baseurl:"
-  My little corner of the internet
+  A litle corner of the internet where Oskar Edbro posts his thougts on cyber secuity, privacy and other things in tech.
 url: https://edbro.net
 
 # Build settings
@@ -33,7 +33,7 @@ plugins:
 # remote_theme: https://github.com/ngzhio/jekyll-theme-hamilton
 
 theme: jekyll-theme-hamilton
-author: Oskar Edbro
+author: "Oskar Edbro"
 disqus:
 google_analytics: 
 skin: sunrise
@@ -42,7 +42,7 @@ paginate: 5
 
 date_format: "%d %B %Y"
 social:
-  name: Oskar Edbro
+  name: "Oskar Edbro"
   links:
     - https://twitter.com/oedbro
     - https:///www.linkedin.com/in/edbro/
@@ -50,6 +50,15 @@ social:
 
 kramdown:
     auto_ids: true
+
+
+# for Jekyll SEO
+twitter:
+  username: oedbro
+  card: summary
+locale: en_UK
+facebook:
+
 
 
 # Exclude from processing.
