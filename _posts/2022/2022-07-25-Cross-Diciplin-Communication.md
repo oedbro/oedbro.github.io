@@ -12,7 +12,7 @@ Anyone working in Cybersecurity can tell you that there are endless fields of sp
 ![An aerial view of lots of fields]({{site.url}}/assets/2022/Cross-Diciplin-Communication/Cross-Diciplin-Fields.jpg)
 
 
-We as cybersecurity professionals need to be better at leveraging this diversity of skills and knowledge to our advantage.  We can learn from each other when it comes to securing our business, because that is what's most important. There is no need to be territorial about our knowledge, we need to share with and learn from others. 
+We as cybersecurity professionals need to be better at leveraging this diversity of skills and knowledge to our advantage.  We can learn from each other when it comes to securing our business, because that is what's most important. There is no need to be territorial about our knowledge, we need to share with and learn from others. This is not only applicable for skills and knowledge, but also for ways of working and other methodology. It is always a good idea to leverage the diversity of a group.
 
 
 ## IT and OT-Security
