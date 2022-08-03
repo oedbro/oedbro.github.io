@@ -16,7 +16,7 @@ We as cybersecurity professionals need to be better at leveraging this diversity
 
 
 ## IT and OT-Security
-Two fields that rarely communicate, but I feel could learn lots from each other are [[2022-02-26-IT-vs-OT-Security|IT and OT security]].  There are things in both areas that are not transferable between them, but that does not mean that nothing can be transferred. For example IT and OT is moving towards convergence on a technical level, therefore it could do the same on a technical level. 
+Two fields that rarely communicate, but I feel could learn lots from each other are IT and OT security.  There are things in both areas that are not transferable between them, but that does not mean that nothing can be transferred. For example IT and OT is moving towards convergence on a technical level, therefore it could do the same on a technical level. 
 
 The following talk by Mats Karlsson Landré is a great starting point for this kinds of discussions. Here he describes the current state of OT-Security, and at what points a discussion between IT and OT professionals will be relevant.  
 
